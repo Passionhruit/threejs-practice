@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pirate ship (Rigged)
+* source:	https://sketchfab.com/3d-models/pirate-ship-rigged-f78e4e29b78c422b8db540459882e601
+* author:	TIG (https://sketchfab.com/sunflowerkesu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pirate ship (Rigged)" (https://sketchfab.com/3d-models/pirate-ship-rigged-f78e4e29b78c422b8db540459882e601) by TIG (https://sketchfab.com/sunflowerkesu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
